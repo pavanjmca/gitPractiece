@@ -1,5 +1,3 @@
-"# gitPratiece" 
-"git init" 
-"git commit -m 'your text'"
-"git branch -M main"
-"I have added lot of things here"
+Making changes to this file to reflect this to test1 branch
+of orgin repository.
+i.e, pjm@gitPractiece
